@@ -6,12 +6,12 @@
   "scope": "index.html",
   "icons": [
     {
-      "src": "img/logo.png",
+    "src": "assets/icon/Wedding-ring-128.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "img/splash.png",
+    "src": "assets/icon/Wedding-ring-128.png",
       "sizes": "512x512",
       "type": "image/png"
     }
