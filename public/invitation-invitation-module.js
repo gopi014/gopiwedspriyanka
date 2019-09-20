@@ -65,7 +65,7 @@ var InvitationPageModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<ion-header>\n    <ion-toolbar class=\"header\">\n      <ion-buttons slot=\"start\">\n        <ion-back-button defaultHref=\"/home/{{lang}}\"></ion-back-button>\n      </ion-buttons>\n      <ion-title>{{\"invitation\" | translate }}</ion-title>\n    </ion-toolbar>\n   </ion-header>\n\n<ion-content padding>\n  <div *ngIf=\"lang=='en'\">\n      <ion-img src=\"assets/images/gopi_2.JPG\" ></ion-img>\n  </div>\n   <div  *ngIf=\"lang=='ta'\">\n      <ion-img src=\"assets/images/gopi.jpg\" ></ion-img>\n   </div>\n    \n</ion-content>\n"
+module.exports = "<ion-header>\r\n    <ion-toolbar class=\"header\">\r\n      <ion-buttons slot=\"start\">\r\n        <ion-back-button defaultHref=\"/home/{{lang}}\"></ion-back-button>\r\n      </ion-buttons>\r\n      <ion-title>{{\"invitation\" | translate }}</ion-title>\r\n    </ion-toolbar>\r\n   </ion-header>\r\n\r\n<ion-content padding>\r\n  <div *ngIf=\"lang=='en'\">\r\n      <ion-img src=\"assets/images/gopi_2.JPG\" ></ion-img>\r\n  </div>\r\n   <div  *ngIf=\"lang=='ta'\">\r\n      <ion-img src=\"assets/images/gopi.jpg\" ></ion-img>\r\n   </div>\r\n    \r\n</ion-content>\r\n"
 
 /***/ }),
 
@@ -76,7 +76,7 @@ module.exports = "<ion-header>\n    <ion-toolbar class=\"header\">\n      <ion-b
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = ".header {\n  --background: #AF273F !important;\n  --color:#fff;\n  text-align: center; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaW52aXRhdGlvbi9HOlxcd29ya1xcbGFnbmEvc3JjXFxhcHBcXGludml0YXRpb25cXGludml0YXRpb24ucGFnZS5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0ksZ0NBQWE7RUFDYixZQUFRO0VBQ1Isa0JBQWtCLEVBQUEiLCJmaWxlIjoic3JjL2FwcC9pbnZpdGF0aW9uL2ludml0YXRpb24ucGFnZS5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmhlYWRlcntcclxuICAgIC0tYmFja2dyb3VuZDogI0FGMjczRiAhaW1wb3J0YW50O1xyXG4gICAgLS1jb2xvcjojZmZmO1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59Il19 */"
+module.exports = ".header {\n  --background: #AF273F !important;\n  --color:#fff;\n  text-align: center; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvaW52aXRhdGlvbi9DOlxcVXNlcnNcXEkwMDAwOTM0XFxEb2N1bWVudHNcXHBlcnNvbmFsXFxsYWduYS9zcmNcXGFwcFxcaW52aXRhdGlvblxcaW52aXRhdGlvbi5wYWdlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDSSxnQ0FBYTtFQUNiLFlBQVE7RUFDUixrQkFBa0IsRUFBQSIsImZpbGUiOiJzcmMvYXBwL2ludml0YXRpb24vaW52aXRhdGlvbi5wYWdlLnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuaGVhZGVye1xyXG4gICAgLS1iYWNrZ3JvdW5kOiAjQUYyNzNGICFpbXBvcnRhbnQ7XHJcbiAgICAtLWNvbG9yOiNmZmY7XHJcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XHJcbn0iXX0= */"
 
 /***/ }),
 
